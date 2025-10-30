@@ -1,1 +1,1 @@
-# Implementando-Front-End-parte-1
+# Implementando-Front-End-parte-1 es un prototipo de funciones como borrar un boton al hacerle click, cambiar el texto dentro de un boton, o que el click de likes suba, el css tenia que parecerse al de mi profe asi que tuve un bloqueo de creatividad, si no esto hubiera quedado mucho mejor visualmente.
